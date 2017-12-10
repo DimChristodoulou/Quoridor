@@ -1,0 +1,19 @@
+--Quoridor--
+
+Created By: Dimitris Christodoulou (sdi1500179)
+-----------------------------------------------------------------------------------------------------------------
+Files included in the zip:
+-ipquoridor.c : Contains the bulk of all the functions and the main function.
+-This README file.
+-----------------------------------------------------------------------------------------------------------------
+The AI works best with the white player, so it would be best to run the program with the black player being
+the naive player.
+-----------------------------------------------------------------------------------------------------------------
+No arguments to the command line are required.
+-----------------------------------------------------------------------------------------------------------------
+Please bear in mind that any walls that are closing the player have to be undone via the undo command,since
+this program does not contain such a function.
+-----------------------------------------------------------------------------------------------------------------
+Also please consider that the program may often encounter errors while cooperating with the referee. However,
+the program will defeat the naive player almost always if it completes successfully.
+-----------------------------------------------------------------------------------------------------------------

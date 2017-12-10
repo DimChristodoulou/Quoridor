@@ -1,0 +1,10 @@
+boardsize 9
+playmove black e8
+playmove black e7
+playmove black e6
+playmove black e5
+playmove black e4
+playmove black e3
+playmove black e2
+playmove white f1
+playmove black e1
